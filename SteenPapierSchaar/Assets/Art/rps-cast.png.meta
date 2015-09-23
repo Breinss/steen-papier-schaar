@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 7ec83cf98438130449d0a9384c56b9de
+timeCreated: 1442928035
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rps-cast_0
+    21300002: rps-cast_1
+    21300004: rps-cast_2
+    21300006: rps-cast_3
+    21300008: rps-cast_4
+    21300010: rps-cast_5
+    21300012: rps-cast_6
+    21300014: rps-cast_7
+    21300016: rps-cast_8
+    21300018: rps-cast_9
+    21300020: rps-cast_10
+    21300022: rps-cast_11
+    21300024: rps-cast_12
+    21300026: rps-cast_13
+    21300028: rps-cast_14
+    21300030: rps-cast_15
+    21300032: rps-cast_16
+    21300034: rps-cast_17
+    21300036: rps-cast_18
+    21300038: rps-cast_19
+    21300040: rps-cast_20
+    21300042: rps-cast_21
+    21300044: rps-cast_22
+    21300046: rps-cast_23
+    21300048: rps-cast_24
+    21300050: rps-cast_25
+    21300052: rps-cast_26
+    21300054: rps-cast_27
+    21300056: rps-cast_28
+    21300058: rps-cast_29
+    21300060: rps-cast_30
+    21300062: rps-cast_31
+    21300064: rps-cast_32
+    21300066: rps-cast_33
+    21300068: rps-cast_34
+    21300070: rps-cast_35
+    21300072: rps-cast_36
+    21300074: rps-cast_37
+    21300076: rps-cast_38
+    21300078: rps-cast_39
+    21300080: rps-cast_40
+    21300082: rps-cast_41
+    21300084: rps-cast_42
+    21300086: rps-cast_43
+    21300088: rps-cast_44
+    21300090: rps-cast_45
+    21300092: rps-cast_46
+    21300094: rps-cast_47
+    21300096: rps-cast_48
+    21300098: rps-cast_49
+    21300100: rps-cast_50
+    21300102: rps-cast_51
+    21300104: rps-cast_52
+    21300106: rps-cast_53
+    21300108: rps-cast_54
+    21300110: rps-cast_55
+    21300112: rps-cast_56
+    21300114: rps-cast_57
+    21300116: rps-cast_58
+    21300118: rps-cast_59
+    21300120: rps-cast_60
+    21300122: rps-cast_61
+    21300124: rps-cast_62
+    21300126: rps-cast_63
+    21300128: rps-cast_64
+    21300130: rps-cast_65
+    21300132: rps-cast_66
+    21300134: rps-cast_67
+    21300136: rps-cast_68
+    21300138: rps-cast_69
+    21300140: rps-cast_70
+    21300142: rps-cast_71
+    21300144: rps-cast_72
+    21300146: rps-cast_73
+    21300148: rps-cast_74
+    21300150: rps-cast_75
+    21300152: rps-cast_76
+    21300154: rps-cast_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rps-cast_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 322
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 322
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 322
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 322
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 322
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 322
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 322
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 322
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 322
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 322
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 322
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 322
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 322
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 258
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 258
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 258
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 258
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 258
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 258
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 258
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_23
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 258
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_24
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 258
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 258
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 194
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 194
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 194
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 194
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 194
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_37
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_38
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 130
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 130
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_48
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 130
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_49
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 130
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_50
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 130
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_51
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 130
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 66
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 66
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_60
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 66
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_61
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 66
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 66
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_63
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 66
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_64
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 66
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_65
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_71
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_72
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_73
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_74
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_75
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_76
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rps-cast_77
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
