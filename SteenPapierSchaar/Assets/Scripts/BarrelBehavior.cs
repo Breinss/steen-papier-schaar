@@ -7,21 +7,25 @@ public class BarrelBehavior : MonoBehaviour {
     private GameObject clone;
     private GameObject shell;
     private bool ready;
-    private int selectedShell;
+    public int selectedShell;
+    private GameObject _reloadUI;
 
 	// Use this for initialization
 	void Start ()
 	{
+        _reloadUI = GameObject.Find("Reload");
 	    selectedShell = 1;
 	    ready = true;
-        rotationSpeed = .5f;
+        rotationSpeed = .8f;
+        _reloadUI.gameObject.SetActive(false);
 	}
 	
 	// Update is called once per frame
 	void Update () {
+        Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.up * 5f), Color.black);
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         rotation = Quaternion.LookRotation(Vector3.forward, mousePos - transform.position);
-        transform.rotation = Quaternion.Slerp(transform.rotation, rotation, rotationSpeed * Time.deltaTime);
+        transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * rotationSpeed);
 
         switch (selectedShell)
 	    {
@@ -68,8 +72,9 @@ public class BarrelBehavior : MonoBehaviour {
     {
         ready = false;
         clone = Instantiate(shell, transform.position + new Vector3(0, 0, 0.2f), transform.rotation) as GameObject;
+        _reloadUI.gameObject.SetActive(true);
         yield return new WaitForSeconds(4);
-
+        _reloadUI.gameObject.SetActive(false);
         ready = true;
     }
     void OnMouseDown()
