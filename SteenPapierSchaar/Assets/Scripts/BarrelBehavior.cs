@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class BarrelBehavior : MonoBehaviour {
-    float rotationSpeed;
+    public float rotationSpeed;
     Quaternion rotation;
     private GameObject clone;
     private GameObject shell;
@@ -81,4 +81,7 @@ public class BarrelBehavior : MonoBehaviour {
     {
 
     }
+	public void addPoints(){
+		rotationSpeed += 1f;
+	}
 }
